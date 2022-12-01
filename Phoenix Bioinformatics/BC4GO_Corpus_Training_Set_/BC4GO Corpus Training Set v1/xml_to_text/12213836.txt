@@ -1,0 +1,318 @@
+10.1083/jcb.200202054
+2173158
+12213836
+200202054
+901
+5
+CDC14; cytokinesis; central spindle; ZEN-4; AIR-2
+914
+surname:Gruneberg;given-names:Ulrike
+surname:Glotzer;given-names:Michael
+surname:Gartner;given-names:Anton
+surname:Nigg;given-names:Erich A.
+The online version of this article contains supplemental
+                material.
+front
+158
+0
+The CeCDC-14 phosphatase is required for cytokinesis in the Caenorhabditis elegans
+                embryo
+paragraph
+11984
+Our analysis of the C. elegans genome had revealed only one ORF with significant
+                homology to CDC14, C17G10.4, but because WormBase (http://www.wormbase.org)
+                predicted three potential splice variants of this ORF, total worm cDNA preparations
+                were subjected to RT-PCR. This analysis revealed a single product, corresponding to
+                the smallest splice variant, C7G10.4c. Furthermore, sequencing of several ESTs
+                derived from C17G10.4 also yielded only sequences corresponding to C17G10.4c
+                (unpublished data). Similarly, only a single product, corresponding to the molecular
+                mass predicted for C17G10.4c (76.7 kD) could be detected at the protein level (see
+                below). Thus, although it would be premature to exclude the existence of minor
+                splice variants, we conclude that the 76.7-kD product of C17G10.4c represents the
+                major CDC14 phosphatase in C. elegans.
+fig_caption
+14895
+CeCDC-14 localizes to the central spindle in anaphase and the midbody in
+                telophase. (A) Total worm extract (lanes 1 and 3) and lysate of insect cells
+                infected with recombinant baculovirus encoding CeCDC-14 (lanes 2 and 4) were probed
+                by immunoblotting with affinity-purified anti-CeCDC-14 antibodies, in the absence
+                (lanes 1 and 2) or presence (lanes 3 and 4) of purified recombinant 6His-CeCDC-14.
+                (B) Wild-type C. elegans embryos were subjected to immunofluorescence microscopy
+                using affinity-purified anti-CeCDC-14 antibodies. Tubulin staining is shown in
+                green, anti-CeCDC-14 staining in red, and DAPI in blue. Arrowheads mark the central
+                spindle (top) and the midbody (bottom panel). (C) ZEN-4-GFP (MG170) embryos in the
+                first zygotic division were stained with goat anti-GFP (green) and
+                rabbit-anti-CeCDC-14 (red) antibodies. Yellow color indicates colocalization. The
+                polar body extrusion remnant is indicated by an arrowhead and the central spindle by
+                an arrow. Bars, 5 mum.
+paragraph
+17797
+The staining patterns produced by anti-CeCDC-14 antibodies were very reminiscent
+                of those observed with antibodies directed against the central spindle components
+                ZEN-4, a mitotic kinesin (Powers et al., 1998; Raich et al., 1998), and its partner
+                protein CYK-4, a Rho-GAP (Jantsch-Plunger et al., 2000; Mishima et al., 2002). To
+                directly explore a possible colocalization between CeCDC-14 and ZEN-4, worms
+                expressing a functional ZEN-4-GFP fusion protein (Kaitna et al., 2000) were stained
+                with antibodies against GFP and CeCDC-14. As illustrated in Fig. 1 C, the two
+                antigens displayed extensive colocalization at both the central spindle and the
+                polar body (arrow and arrowhead, respectively).
+table_title_caption
+19339
+Time course of CeCDC-14 RNAi
+table_footnote
+19988
+Some of the worms that hatched shortly before the lethal period displayed
+                disorganized germlines or died as larvae.
+paragraph
+22325
+In a minor proportion of embryos (6/36), the furrow only pinched in marginally
+                before it regressed and cytokinesis failed. In some of these embryos, the
+                pseudocleavage also appeared weaker or the spindle was placed more centrally than
+                observed in wild-type embryos. Similar features have been observed in mutants
+                defective in the establishment of polarity (Shelton et al., 1999; Rappleye et al.,
+                2002) raising the possibility that the absence of CeCDC-14 might also have caused a
+                polarity defect. However, when CeCDC-14-depleted embryos were stained with
+                antibodies against P granules, these were found to display the same posterior
+                localization as in wild-type embryos (Fig. 2 C). Staining with antibodies against
+                PAR-2 and PAR-3, two further markers of polarity, also failed to reveal aberrations
+                in the establishment of polarity, and most CeCDC-14-depleted embryos also displayed
+                the characteristic flattening of the posterior spindle pole in anaphase (unpublished
+                data; Keating and White, 1998). Thus, our results fail to support a major, direct
+                role of CeCDC-14 in the establishment of polarity. On the other hand, considering
+                that ~15% of CeCDC-14-depleted embryos did give indications of a polarity defect, it
+                would be premature to rigorously exclude such a role. It remains possible that very
+                low levels of residual phosphatase activity could suffice for a polarity-related
+                function.
+fig_caption
+25441
+CeCDC-14-depleted embryos lack bundled midzone microtubules. (A) Wild-type and
+                CeCDC-14-depleted embryos in the first anaphase were stained with anti-tubulin
+                antibodies (green). DAPI staining is shown in blue. Arrowheads point to the central
+                spindle (top), which is absent in CeCDC-14-depleted embryos. (B) Wild-type,
+                CeCDC-14- and ZEN-4-depleted embryos in telophase were fixed with paraformaldehyde
+                and stained with FITC-phalloidin. All three embryos showed cortical actin staining
+                but only partial actin rings at the cleavage furrow were observed in CeCDC-14- and
+                ZEN-4-depleted embryos (arrowheads). Bar, 5mum.
+fig_caption
+27098
+ZEN-4 and AIR-2 are mislocalized in CeCDC-14-depleted embryos. (A) Wild-type and
+                CeCDC-14-depleted embryos were stained with anti-tubulin (green) and anti-ZEN-4
+                antibodies (red). (B) Wild-type embryos and embryos depleted of CeCDC-14 by RNAi
+                were stained with antibodies recognizing AIR-2 (red). Note that in the
+                CeCDC-14-depleted embryo some microtubules were stained with anti-AIR-2 antibody
+                (bottom row, arrow) whereas the chromosomes were not recognized by the antibody. DNA
+                staining is in blue. Arrowheads point to the central spindle and midbodies.
+paragraph
+28589
+From the analysis of fixed CeCDC-14-depleted embryos, it was impossible to
+                determine whether the mislocalization of ZEN-4 was due to an inability of ZEN-4 to
+                localize to the central spindle, or alternatively, reflected an unstable association
+                of ZEN-4 with the spindle midzone. The latter mechanism had previously been
+                described to underlie the ZEN-4 mislocalization phenotype in embryos injected with
+                dsRNA for the C. elegans INCENP homologue, ICP-1 (Kaitna et al., 2000). To
+                distinguish between the two possibilities, worms carrying a functional ZEN-4-GFP
+                fusion (Kaitna et al., 2000) were injected with CeCDC-14 dsRNA, and
+                CeCDC-14-depleted and control embryos were then observed in real time. In wild-type
+                embryos, ZEN-4-GFP began to localize to the central spindle in anaphase, and
+                subsequently formed a bright spot at the position of the midbody in telophase (n =
+                4) (Fig. 5, left). However, in embryos depleted of CeCDC-14, no transient
+                accumulation of ZEN-4-GFP could be observed at any time point (n = 6) (Fig. 5, right
+                two panels). From the comparison of these results with those reported for embryos
+                depleted of ICP-1 (Kaitna et al., 2000), it seems clear that depletion of CeCDC-14
+                disturbs the organization of the central spindle more completely than depletion of
+                ICP-1.
+paragraph
+30642
+To characterize the relationship between CeCDC-14 and ZEN-4 in more detail,
+                embryos were also depleted of ZEN-4 by RNAi, and then analyzed by immunofluorescence
+                microscopy, using anti-CeCDC-14 antibodies. As shown in Fig. 6, CeCDC-14 was
+                completely lost from both the central spindle and the midbody in ZEN-4-depleted
+                embryos (n = 25) (Fig. 6). The same result was obtained in CYK-4-depleted embryos
+                (unpublished data). Together with the data presented in Fig. 4, this indicates that
+                CeCDC-14 and the ZEN-4/CYK-4 complex are mutually dependent on each other for
+                localization. In parallel, we also examined embryos depleted for AIR-2. In addition
+                to a severe cytokinesis defect, such AIR-2-depleted embryos display problems with
+                DNA segregation during anaphase, leading to chromatin bridges and unsegregated DNA
+                masses in telophase (Schumacher et al., 1998; Kaitna et al., 2000). In most
+                AIR-2-depleted embryos examined with anti-CeCDC-14 antibodies, no localized CeCDC-14
+                staining could be seen (n = 20) (Fig. 6, bottom).
+paragraph
+32045
+As described above, embryos depleted of CeCDC-14 clearly failed cell division, but
+                remarkably they appeared to continue in the cell cycle. In fact, CeCDC-14-depleted
+                embryos seemed to keep duplicating both their DNA and their centrosomes. This
+                observation is in stark contrast with the situation in S. cerevisiae, in which
+                cdc14-ts mutants, when shifted to the nonpermissive temperature, were unable to exit
+                mitosis and instead arrested in anaphase with segregated chromosomes and high Cdk1
+                activity (Visintin et al., 1998). To more carefully examine the influence of
+                CeCDC-14 depletion on cell cycle progression, two types of analyses were carried
+                out. First, embryos were dissected from worms at different times after injection of
+                CeCDC-14-dsRNA, and the time required for these embryos to proceed through mitosis
+                was measured. Most importantly, no cell cycle arrest could be observed at any time
+                point (Table II). This was true even for batches of injected worms that were
+                followed until oocytes failed to be fertilized due to depletion of the stored sperm.
+                For embryos dissected at late time points (24-36 h after injection), our data
+                suggested a possible increase in the length of mitosis (Table II). However, because
+                it was difficult to measure the period between nuclear envelope breakdown and
+                reformation accurately by DIC optics (note the relatively large standard error of
+                the means in Table II), we also analyzed cell cycle progression in histone-GFP
+                embryos. By filming such embryos, the time intervals between different mitotic
+                events could be measured very accurately. As shown in Table III and Videos 1 and 2
+                (available at http://www.jcb.org/cgi/content/full/jcb.200202054/DC1), no significant
+                differences in the duration of the first mitosis could be observed between wild-type
+                and CeCDC-14-depleted embryos.
+table_footnote
+34205
+n = 7 for both wild-type and CeCDC-14-depleted embryos.
+title_1
+36623
+Discussion
+paragraph
+38113
+Surprisingly, our RNAi-based survey of potential C. elegans MEN/SIN homologues
+                revealed an embryonic requirement only for the CeCDC-14 phosphatase. Several factors
+                may contribute to explain this finding. First, two of the MEN/SIN components
+                analyzed (Dbf2p and Mob1p) have more than one potential homologue in the C. elegans
+                genome, raising the possibility of redundancy. In these cases, it might be necessary
+                to simultaneously deplete all potential homologues in order to observe a phenotype.
+                Second, it is possible that some of the MEN/SIN components serve to fulfill
+                requirements specific to yeast cell budding or fission, respectively, and these
+                functions may not have been conserved during evolution of metazoan organisms. Third,
+                whether or not a particular gene product is required for cell cycle progression may
+                depend on the developmental context. Consistent with this possibility, we have
+                observed that depletion of two C. elegans kinases structurally related to MEN/SIN
+                components (Dbf2p of S. cerevisiae and Sid1p of S. pombe) produced an F1 arrest at
+                the L1 stage and degeneration of the germ line, respectively.
+title_2
+40292
+CeCDC-14 depletion does not affect the embryonic C. elegans cell cycle
+title_2
+42392
+Depletion of CeCDC-14 interferes with central spindle assembly
+title_2
+44096
+RNA-mediated interference
+title_2
+46122
+DIC filming of worm embryos
+paragraph
+46627
+For real-time recordings of ZEN-4-GFP in C. elegans embryos, strain MG170 (zen-4
+                [or 153ts]); (xsEx6 [zen-4-GFP]]) (Kaitna et al., 2000) was used. This strain was
+                propagated at 25 C. Untreated or RNAi-injected MG170 worms were dissected as
+                described above, and time-lapse recordings of GFP fluorescence were carried out as
+                described previously (Jantsch-Plunger et al., 2000), using a Zeiss Axioplan 2
+                microscope with a piezo stepper (Physik Instrumente), a CoolSnap camera for image
+                acquisition and Metamorph software. The exposure time for GFP fluorescence was 100
+                ms, and six frames, 2 mum apart, were taken every 15 s. Time-lapse recordings of
+                histone H2B-GFP embryos were performed in a similar manner, with the exception that
+                only two frames, 1.5 mum apart, were taken every 6 s in order to increase temporal
+                resolution. Filming of histone-GFP embryos was carried out at 25 C. For data
+                analysis, each stack of GFP images was projected onto a single plane, and the
+                projections were processed for figures using Adobe Photoshop.
+title_2
+48456
+Antibodies
+title_2
+49357
+Insect cell expression
+paragraph
+49857
+Total worm lysate was prepared by resuspending a worm pellet of 100 mul in 200 mul
+                urea-buffer (Knop et al., 1996). The lysate was heated at 65 C for 10 min and 5 mul
+                were applied per lane of an SDS-PAGE minigel. The separated proteins were
+                transferred to Protran membrane (Schleicher and Schuell) and probed with
+                affinity-purified anti-CeCDC-14 antibodies at a concentration of 0.25 mug/ml. For
+                analysis of untagged recombinant CeCDC-14 protein, baculovirus-infected Sf9 cells
+                were harvested 48 h postinfection with the C17G10.4c-virus. The cell pellet was
+                lysed at 4 x 106 cells/ml in 50 mM Tris-Cl, pH 8.0, 150 mM NaCl, 0.5% IGEPAL, 1 mM
+                Pefabloc (Roche), and a protease inhibitor cocktail (Roche). The lysate was
+                centrifuged for 10 min at 14,000 rpm in a table top centrifuge and the supernatant
+                diluted 1:10 with PBS. 5 mul was loaded per lane of an SDS-PAGE minigel and
+                processed as described above.
+title_2
+51644
+Online supplemental material
+paragraph
+51904
+ 
+Adams, R.R., M. Carmena, and W.C. Earnshaw. a. Chromosomal
+                passengers and the (aurora) ABCs of mitosis. :-54.
+49
+11166196
+Trends Cell Biol.
+ref
+11
+2001
+51912
+Cueille, N., E. Salimova, V. Esteban, M. Blanco, S. Moreno, A.
+                Bueno, and V. Simanis. . Flp1, a fission yeast orthologue of the S. cerevisiae CDC14
+                gene, is not required for cyclin degradation or rum1p stabilization at the end of
+                mitosis. :-2664.
+2649
+11683392
+J. Cell Sci.
+ref
+114
+2001
+51920
+Jaspersen, S.L., J.F. Charles, R.L. Tinker-Kulberg, and D.O.
+                Morgan. . A late mitotic regulatory network controlling cyclin destruction in
+                Saccharomyces cerevisiae. :-2817.
+2803
+9763445
+Mol. Biol. Cell.
+ref
+9
+1998
+51928
+Knop, M., A. Finger, T. Braun, K. Hellmuth, and D.H. Wolf. . Der1,
+                a novel protein specifically required for endoplasmic reticulum degradation in
+                yeast. :-763.
+753
+8631297
+EMBO J.
+ref
+15
+1996
+51936
+Mishima, M., S. Kaitna, and M. Glotzer. . Central spindle assembly
+                and cytokinesis require a kinesin-like protein/RhoGAP complex with microtubule
+                bundling activity. :-54.
+41
+11782313
+Dev. Cell.
+ref
+2
+2002
+51944
+Rappleye, C.A., A. Tagawa, R. Lyczak, B. Bowerman, and R.V.
+                Aroian. . The anaphase-promoting complex and separin are required for embryonic
+                anterior-posterior axis formation. :-206.
+195
+11832245
+Dev. Cell.
+ref
+2
+2002
+51952
+Strome, S. . Fluorescence visualization of the distribution of
+                microfilaments in gonads and early embryos of the nematode Caenorhabditis elegans.
+                :-2252.
+2241
+3782297
+J. Cell Biol.
+ref
+103
+1986
+51960
+Williams, B.C., M.F. Riedy, E.V. Williams, M. Gatti, and M.L.
+                Goldberg. . The Drosophila kinesin-like protein KLP3A is a midbody component
+                required for central spindle assembly and initiation of cytokinesis. :-723.
+709
+7730406
+J. Cell Biol.
+ref
+129
+1995
+51968
