@@ -12,7 +12,7 @@ def summarize(Article):
 
 def split_article(Article):
   #Maximum sequence length 
-  K = 800
+  K = 2000
   #Total number of tokens in Document
   N = len(word_tokenize(Article))
   words = word_tokenize(Article)
