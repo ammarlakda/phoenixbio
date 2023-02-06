@@ -8,6 +8,9 @@ def summarize(chunked_article):
   return summary
 
 def split_article(Article):
+  """
+  Split article into chunks and sends it to the gpt 3 summarizer and outputs the final string which is summarized
+  """
   #Maximum sequence length 
   K = 800
   #Total number of tokens in Document
