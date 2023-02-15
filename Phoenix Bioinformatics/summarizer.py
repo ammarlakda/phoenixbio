@@ -4,9 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-#openai.api_key = os.getenv("OPENAI_API_KEY")
-openai.api_key = "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"
-
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def summarizer(article):
     response = openai.Completion.create(
