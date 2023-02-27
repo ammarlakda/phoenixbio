@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import HeaderBar from './headerBar';
 
 const App = () => {
   const [message, setMessage] = useState('');
@@ -20,19 +21,24 @@ const App = () => {
   };
 
   return (
+    
     <div>
-      <form onSubmit={handleSubmit}>
-        <input
-          type="text"
-          value={message}
-          onChange={event => setMessage(event.target.value)}
-        />
-        <button type="submit">Send Data</button>
-      </form>
-      <div>
-        <p>Response from server:</p>
-        <p>{response}</p>
-      </div>
+      <HeaderBar></HeaderBar>
+      <div style={{marginLeft:'30%', backgroundColor:'grey', marginRight:'45%', padding:20, width:'40%',marginTop:'15%',marginBottom:'15%'}}>
+        <h2>Enter Input Query:</h2>
+        <form onSubmit={handleSubmit}>
+          <input style={{width:'75%',height:35}}
+            type="text"
+            value={message}
+            onChange={event => setMessage(event.target.value)}
+          />
+          <button type="submit" style={{height:40, marginLeft:10}}>Submit</button>
+        </form>
+        <div>
+          <h2>Query Solution:</h2>
+          <p style={{color:'lightgrey'}}>{response}</p>
+        </div>
+        </div>
     </div>
   );
 };
