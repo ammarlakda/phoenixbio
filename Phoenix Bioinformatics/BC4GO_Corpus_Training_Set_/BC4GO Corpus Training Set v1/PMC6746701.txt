@@ -1,0 +1,30 @@
+76. Gu, Z., Eils, R. & Schlesner, M. Complex heatmaps reveal patterns and
+correlations in multidimensional genomic data. Bioinformatics 32, 2847 –2849
+(2016).
+Acknowledgements
+We thank Dr. Karen Browning and the members of the Huq laboratory for critical
+reading of the paper, Akira Nagatani for sharing seeds, Peter Quail for sharing anti-phyBantibody. This work was supported by grants from the National Institute of Health(NIH) (GM-114297) and National Science Foundation (MCB-1543813) to E.H., and
+Next-Generation BioGreen 21 Program from Rural Development Administration,
+Republic of Korea (grant no. PJ01325301) to J.K. The authors acknowledge the TexasAdvanced Computing Center (TACC) at The University of Texas at Austin for providingHigh Performance Computing, visualization, and database resources that have con-
+tributed to the research results reported in this paper.
+Author contributions
+I.P., F.C., V.P., L.Z. and E.H. designed experiments. J.K. contributed essential reagent.I.P., F.C., V.P. and L.Z. carried out experiments. I.P., F.C., V.P., L.Z., J.K. and E.H.
+analyzed data. I.P. and E.H. wrote the paper. I.P., F.C., V.P., L.Z., J.K. and E.H. editedthe paper.
+Additional information
+Supplementary Information accompanies this paper at https://doi.org/10.1038/s41467-
+019-12110-y .Competing interests: The authors declare no competing interests.
+Reprints and permission information is available online at http://npg.nature.com/
+reprintsandpermissions/
+Peer review information Nature Communications thanks the anonymous reviewers for
+their contribution to the peer review of this work. Peer reviewer reports are available
+Publisher ’s note Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional af ﬁliations.
+Open Access This article is licensed under a Creative Commons Attri-
+bution 4.0 International License, which permits use, sharing, adaptation,
+distribution and reproduction in any medium or format, as long as you give appropriatecredit to the original author(s) and the source, provide a link to the Creative Commons
+license, and indicate if changes were made. The images or other third party material in this
+article are included in the article ’s Creative Commons license, unless indicated otherwise in
+a credit line to the material. If material is not included in the article ’sC r e a t i v eC o m m o n s
+license and your intended use is not permitted by statutory regulation or exceeds thepermitted use, you will need to obtain permission directly from the copyright holder. Toview a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ .
+© The Author(s) 2019NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-019-12110-y ARTICLE
+NATURE COMMUNICATIONS |         (2019) 10:4216 | https://doi.org/10.1038/s41467-019-12110-y | www.nature.com/naturecommunications 17
