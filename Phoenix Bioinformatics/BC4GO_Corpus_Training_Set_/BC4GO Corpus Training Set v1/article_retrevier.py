@@ -5,6 +5,8 @@ from requests.exceptions import ConnectionError
 import os
 
 
+ 
+
 s = HTMLSession()
 
 headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36'}
@@ -35,7 +37,8 @@ for pmc in ids:
                     f.write(chunk)
 
     except ConnectionError as e:
-        #pass
-        #out = open('ConnectionError_pmcids.txt','a')
-        #out.write(pmcid + '\n')
-        print(e)
+        pass
+        out = open('ConnectionError_pmcids.txt','a')
+        out.write(pmcid + '\n')
+
+
