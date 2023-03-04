@@ -1,5 +1,6 @@
 from requests_html import HTMLSession
 import requests
+import re
 from requests.exceptions import ConnectionError
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import TextConverter
@@ -7,6 +8,7 @@ from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
 from io import StringIO
 import os
+
 
 
 path = r"C:\Users\ammar\OneDrive\Desktop\phoenixbio\Phoenix Bioinformatics\PDFs"
@@ -68,6 +70,8 @@ def convert_pdf_to_txt(path):
     fp.close()
     device.close()
     retstr.close()
+    text = text.lower()
+    text = re.sub(r"(@\[A-Za-z0-9]+)|([^0-9A-Za-z \t])|(\w+:\/\/\S+)|^rt|http.+?", "", text)
     return text
 
 

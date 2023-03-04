@@ -26,7 +26,8 @@ def send_data():
     IdScrape(pmcid)
     path = r"C:\Users\ammar\OneDrive\Desktop\phoenixbio\Phoenix Bioinformatics\PDFs/"+pmcid+".pdf"
     text = convert_pdf_to_txt(path)
-    modified_message = split_article(message)
+
+    modified_message = split_article(text)
     return jsonify({'message': modified_message})
 
 if __name__ == '__main__':
