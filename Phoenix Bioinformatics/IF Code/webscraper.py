@@ -172,7 +172,6 @@ def get_bibliography(soup):
 
     pubmed = ''
     if soup.find('articleid'):
-        pubmed = 'PUBMED: '
         pubmed += soup.find('articleid').text
         pubmed += '; '
         doi_pii = article.find_all('elocationid')
@@ -246,7 +245,7 @@ for link in tqdm(idlist):
 
 df = pd.DataFrame(clean)
 df.columns = ['authors', 'ArticleTitle', 'journal_title', 'volume', 'date', 'pubmed', 'doi_pii_str', 'abstract']
-file_name = keyword + '_' + str(num) + '.csv'
+file_name = keyword + '.csv'
 df.to_csv(file_name)
 
 print(count)
