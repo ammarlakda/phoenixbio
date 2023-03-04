@@ -11,7 +11,7 @@ import os
 
 
 
-path = r"/Users/ammarlakdawala/Documents/phoenixbio/Phoenix Bioinformatics/PDFs"
+path = r"C:\Users\19058\Documents\GitHub\phoenixbio\Phoenix Bioinformatics\PDFs"
 os.chdir(path)
 
 

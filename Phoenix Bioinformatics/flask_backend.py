@@ -22,12 +22,13 @@ def send_data():
     # Create a DataFrame
     df = pd.DataFrame(X.T.toarray(), index=vectorizer.get_feature_names_out())
     pmcid=get_similar_articles(message,df,main_df)
-    IdScrape(pmcid)
-    path = r"/Users/ammarlakdawala/Documents/phoenixbio/Phoenix Bioinformatics/PDFs/"+pmcid+".pdf"
+    pmc=pmcid['pmcid']
+    IdScrape(pmc)
+    path = r"C:\Users\19058\Documents\GitHub\phoenixbio\Phoenix Bioinformatics\PDFs/"+pmc+".pdf"
     text = convert_pdf_to_txt(path)
 
     modified_message = split_article(text)
-    return jsonify({'message': modified_message})
+    return jsonify({'message': modified_message+"\n\nArticle reference PMCID: "+pmc})
 
 if __name__ == '__main__':
     app.run(debug=True)
