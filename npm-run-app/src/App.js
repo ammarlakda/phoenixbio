@@ -24,7 +24,7 @@ const App = () => {
     
     <div>
       <HeaderBar></HeaderBar>
-      <div style={{marginLeft:'30%', backgroundColor:'grey', marginRight:'45%', padding:20, width:'40%',marginTop:'15%',marginBottom:'15%'}}>
+      <div style={{marginLeft:'30%', backgroundColor:'grey', marginRight:'45%', padding:20, width:'40%',marginTop:'15%',marginBottom:'15%',borderRadius:20}}>
         <h2>Enter Input Query:</h2>
         <form onSubmit={handleSubmit}>
           <input style={{width:'75%',height:35}}
@@ -35,7 +35,7 @@ const App = () => {
           <button type="submit" style={{height:40, marginLeft:10}}>Submit</button>
         </form>
         <div>
-          <h2>Query Solution:</h2>
+          <h2>Article Summary:</h2>
           <p style={{color:'lightgrey'}}>{response}</p>
         </div>
         </div>

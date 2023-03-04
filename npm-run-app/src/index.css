@@ -15,8 +15,11 @@ code {
   
 }
 .headerbar{
-  padding: 20px;
+  padding: 10px;
   align-items: center;
   display: flex;
   border-bottom: 3px solid rgb(92, 0, 0);
+}
+.app{
+  background-color: aquamarine;
 }
