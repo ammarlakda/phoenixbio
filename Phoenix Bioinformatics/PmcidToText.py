@@ -9,7 +9,7 @@ from io import StringIO
 import os
 
 
-path = "C:\\Users\\Steven\\Documents\\GitHub\\phoenixbio\\Phoenix Bioinformatics\\BC4GO_Corpus_Training_Set_\\BC4GO Corpus Training Set v1"
+path = r"C:\Users\ammar\OneDrive\Desktop\phoenixbio\Phoenix Bioinformatics\PDFs"
 os.chdir(path)
 
 
@@ -72,9 +72,9 @@ def convert_pdf_to_txt(path):
 
 
 def main():
-    id = 'PMC6746701'
+    id = 'PMC59487'
     IdScrape(id)
-    path = "C:\\Users\\Steven\\Documents\\GitHub\\phoenixbio\\Phoenix Bioinformatics\\BC4GO_Corpus_Training_Set_\\BC4GO Corpus Training Set v1\\"+id+".pdf"
+    path = r"C:\Users\ammar\OneDrive\Desktop\phoenixbio\Phoenix Bioinformatics\PDFs"+id+".pdf"
     text = convert_pdf_to_txt(path)
     f = open(id+".txt", "a")
     f.write(text)
