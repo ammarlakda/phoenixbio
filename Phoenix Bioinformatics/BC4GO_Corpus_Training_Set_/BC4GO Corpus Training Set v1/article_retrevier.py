@@ -14,21 +14,15 @@ headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 
 path = "C:\\Users\\Steven\\Documents\\GitHub\\phoenixbio\\Phoenix Bioinformatics\\BC4GO_Corpus_Training_Set_\\BC4GO Corpus Training Set v1"
 os.chdir(path)
-cwd = os.getcwd()  # Get the current working directory (cwd)
-files = os.listdir(cwd)  # Get all the files in that directory
-print("Files in %r: %s" % (cwd, files))
-
-
-
-file = open('inputs.txt','r')
-ids = file.readlines()
-for pmc in ids:
+def IdScrape(pmcid):
+    s = HTMLSession()
+    headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36'}
     try:
-        pmcid = pmc.strip()
+        print(pmcid)
         base_url = 'https://www.ncbi.nlm.nih.gov/pmc/articles/'
         r = s.get(base_url + pmcid + '/', headers=headers, timeout=5)
         print(r)
-        pdf_url = 'https://www.ncbi.nlm.nih.gov' + r.html.find('a.int-view', first=True).attrs['href']
+        pdf_url = 'https://www.ncbi.nlm.nih.gov/' + r.html.find('a.int-view', first=True).attrs['href']
         print(pdf_url)
         r = s.get(pdf_url,stream=True)
         with open(pmcid + '.pdf','wb') as f:
@@ -41,4 +35,4 @@ for pmc in ids:
         out = open('ConnectionError_pmcids.txt','a')
         out.write(pmcid + '\n')
 
-
+IdScrape('PMC6746701')
