@@ -28,5 +28,8 @@ text=pageobj.extract_text()
 #click properties and copy the location path and paste it here.
 #put "\\your_txtfilename"
 
-file1=open(r"C:\\Users\\Steven\\Documents\\GitHub\\phoenixbio\\Phoenix Bioinformatics\\BC4GO_Corpus_Training_Set_\\BC4GO Corpus Training Set v1\\PMC6746701.txt","a", encoding="utf-8")
+file1=open(r"C:\\Users\\Steven\\Documents\\GitHub\\phoenixbio\\Phoenix Bioinformatics\\BC4GO_Corpus_Training_Set_\\BC4GO Corpus Training Set v1\\PMC6746701.txt","w", encoding="utf-8")
 file1.writelines(text)
+
+
+
