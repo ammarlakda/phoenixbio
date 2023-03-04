@@ -71,14 +71,14 @@ def convert_pdf_to_txt(path):
     return text
 
 
-def main():
-    id = 'PMC59487'
-    IdScrape(id)
-    path = r"C:\Users\ammar\OneDrive\Desktop\phoenixbio\Phoenix Bioinformatics\PDFs"+id+".pdf"
-    text = convert_pdf_to_txt(path)
-    f = open(id+".txt", "a")
-    f.write(text)
-    f.close()
+# def main():
+#     id = 'PMC59487'
+#     IdScrape(id)
+#     path = r"C:\Users\ammar\OneDrive\Desktop\phoenixbio\Phoenix Bioinformatics\PDFs"+id+".pdf"
+#     text = convert_pdf_to_txt(path)
+#     f = open(id+".txt", "a")
+#     f.write(text)
+#     f.close()
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()
