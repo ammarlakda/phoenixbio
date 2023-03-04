@@ -1,12 +1,10 @@
 import PyPDF2
 import os
 
-path = "C:\\Users\\Steven\\Documents\\GitHub\\phoenixbio\\Phoenix Bioinformatics\\BC4GO_Corpus_Training_Set_\\BC4GO Corpus Training Set v1"
-os.chdir(path)
 
 #create file object variable
 #opening method will be rb
-pdffileobj=open('PMC6746701.pdf','rb')
+pdffileobj=open('PMC2538882.pdf','rb')
 
 #create reader variable that will read the pdffileobj
 pdfreader=PyPDF2.PdfReader(pdffileobj)
@@ -28,7 +26,7 @@ text=pageobj.extract_text()
 #click properties and copy the location path and paste it here.
 #put "\\your_txtfilename"
 
-file1=open(r"C:\\Users\\Steven\\Documents\\GitHub\\phoenixbio\\Phoenix Bioinformatics\\BC4GO_Corpus_Training_Set_\\BC4GO Corpus Training Set v1\\PMC6746701.txt","w", encoding="utf-8")
+file1=open(r"C:\Users\ammar\OneDrive\Desktop\phoenixbio\Phoenix Bioinformatics\test3.txt","w", encoding="utf-8")
 file1.writelines(text)
 
 

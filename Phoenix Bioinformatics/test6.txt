@@ -1,0 +1,88 @@
+SPA1-KinR517E(mSPA1) mutant compared to the wild type
+SPA1-Kin domain (Fig. 1b), suggesting that the mutation affects
+the kinase activity of SPA1 in vitro.
+To examine whether the SPA1-Kin domain can phosphorylate
+a substrate, we performed a kinase assay using myelin basic
+protein (MBP), which has been widely used as a general substrate
+for many kinases45. In vitro kinase assays showed that the SPA1-
+Kin domain phosphorylates MBP in vitro in a concentration-
+dependent manner (Fig. 1c). Notably, the SPA1-Kin auto-
+phosphorylation activity reduces as the MBP phosphorylation
+increases, showing a general feature of a kinase-substrate
+relationship in that auto-phosphorylation of a kinase reduces as
+the substrate phosphorylation increases.
+SPA1 can directly phosphorylate PIF1 in vitro . Previously, we
+reported that the COP1-SPA1 E3 ligase can interact with PIF1 in
+a red light-induced manner and promotes its rapid degradation41.
+To test whether PIF1 could be a native substrate of the SPA1
+kinase, a strep-tagged full-length SPA1 protein was puri ﬁed from
+a eukaryotic expression host, Pichia pastoris (Supplementary
+Fig. 2a, b), and the kinase assay was performed with PIF1 as a
+substrate. PIF1 was strongly phosphorylated by SPA1 in vitro
+(Fig. 1d), suggesting that PIF1 might be a bona ﬁde native sub-
+strate of SPA1 kinase. SPA1 also phosphorylated PIF1 in an ATP
+concentration- and time-dependent manner (Fig. 1e, f). SinceSPA1 harbors a predicted ser/thr kinase domain, we further
+investigated the nature of PIF1 phosphorylation by acid-base
+sensitivity assays (Supplementary Fig. 2c). In the presence of
+KOH, PIF1 was dephosphorylated, while PIF1 phosphorylation
+was stable in HCl solution, suggesting that SPA1 is a ser/thr
+kinase for PIF1.
+To examine whether the conserved amino acid mutation
+(R517E) on the full-length SPA1 kinase domain affects PIF1
+phosphorylation, we puri ﬁed the full-length mSPA1 from Pichia
+pastoris and performed the kinase assay using PIF1 as a substrate.
+The mSPA1 showed signi ﬁcantly reduced PIF1 phosphorylation
+compared to the wild type SPA1 (Fig. 1g). In addition, the SPA1-
+Kin domain alone was able to phosphorylate PIF1, while the
+mutant mSPA1-Kin exhibited reduced PIF1 phosphorylation
+(Supplementary Fig. 2d). To examine if SPA1 can bind to ATP,
+we performed a concentration-dependent ATP binding assay
+using TNP-ATP. Results show that both wild type and mutant
+form of SPA1-Kin were able to bind to TNP-ATP in a
+concentration-dependent manner (Supplementary Fig. 2e). Both
+wild type and mutant SPA1 can directly interact with PIF1
+in vitro (Supplementary Fig. 2f, g), suggesting that the reduction
+in PIF1 phosphorylation by the mSPA1 mutant is not due to a
+reduction in physical interaction between mSPA1 and PIF1.
+Taken together, these data strongly suggest that SPA1 is a bona
+ﬁde ser/thr kinase that phosphorylates PIF1 in vitro.
+a
+bc
+SPA1-Kin
+SPA1-KinWT SPA1SPA1-Kin
+MBP
+g
+PIF1SPA1WT mSPA1PIF1SPA1
+f e
+5 30 60 90 120 (min)d
+PIF1SPA1SPA1 amount
+M
+MM++
+––+
++
+TimeMBP amount
+SPA1-Kin
+SPA1-Kin
+PIF1SPA1
+PIF1SPA1PIF1SPA1PIF1SPA1
+100 -
+100 -150 -
+100 -
+100 -100 - 100 -kDkDkD
+kD
+kD
+kDkD
+PIF1SPA1
+PIF1SPA1mMATP 2.5 0.5 0.1 0.02 0.004mSPA1
+Fig. 1 SPA1 acts as a ser/thr protein kinase. aSPA1 kinase domain (SPA1-Kin) puri ﬁed from E. coli showed an auto-phosphorylation activity in a
+concentration-dependent manner (autoradiogram on top panel). Bottom panel shows the protein level in a Coomassie-stained gel. M, indicates protei n
+marker. bA conserved amino acid mutation on the SPA1 kinase domain reduces the auto-phosphorylation activity of SPA1 (autoradiogram on top panel).
+Bottom panel shows the protein level in a Coomassie-stained gel. cThe N-terminal kinase domain of SPA1 exhibits kinase activity in the presence of myelin
+basic protein (MBP); a general kinase substrate (autoradiogram on top panel). Bottom panel shows the protein levels in a Coomassie-stained gel. dFull-
+length SPA1 puri ﬁed from Pichia pastoris phosphorylates PIF1 in vitro (autoradiogram on top panel). Bottom panel shows the protein levels in a Coomassie-
+stained gel. eATP-dependent kinase assays of full-length SPA1 on PIF1 (autoradiogram on top panel). ATP concentrations used were 0.004, 0.02, 0.1, 0.5,
+and 2.5 mM. Bottom panel shows the protein levels in a Coomassie-stained gel. fKinetic analysis of the kinase activity of the full-length SPA1 on PIF1
+(autoradiogram on top panel). Bottom panel shows the protein levels in a Coomassie-stained gel. gA conserved amino acid mutation on the full-length
+SPA1 kinase domain reduces the SPA1 kinase activity toward PIF1 (autoradiogram on top panel). Bottom panel shows the protein levels in a Coomassie-
+stained gelNATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-019-12110-y ARTICLE
+NATURE COMMUNICATIONS |         (2019) 10:4216 | https://doi.org/10.1038/s41467-019-12110-y | www.nature.com/naturecommunications 3

@@ -651,3 +651,223 @@ lography of protein-ligand complexes. Acta Crystallogr D 60:1355–1363.
 Data Analysis (Wiley, New York), 2nd Ed, pp 305–317.
 Yun et al. PNAS /H20841February 12, 2008 /H20841vol. 105 /H20841no. 6 /H208412075
 MEDICAL SCIENCES
+from rabbit muscle (Sigma-Aldrich; catalogue no. P-0294), 0.5 mM NADH, and
+0.5/H9262M EGFR kinase; ATP at varied concentration was added last to start the
+reaction. Steady-state initial velocity data were drawn from the slopes of theA
+340curves and ﬁt to the Michaelis-Menten equation to determine VmandKm
+values. To assure that our derived kcatparameters reﬂected concentrations of
+active enzyme, we estimated the active enzyme concentration of every kinasepreparation by titration of the samples with the tight binding inhibitorgeﬁtinib or AEE788 (see below).
+Inhibition assays were carried out by using the same kinetic assay method,
+with 10 mM MgCl
+2and 1.25 mM EGFR autophosphorylation site peptide
+(ENAEYLRVA) as the phospho-acceptor substrate. The ATP concentration wasﬁxed at 10
+/H9262M or 1 mM, and the indicated concentrations of the inhibitors
+were added before the addition of ATP.
+Binding Constant Assay and Calculation of the KiappValues. The equilibrium
+ﬂuorescence quenching method was used to obtain the binding constant andestimate the active enzyme concentration as described (8). Fluorescence mea-surements were carried out in a nitrogen-sparged buffer containing 20 mM
+Tris, 0.5% glycerol, 250 mM NaCl, and 1 mM TCEP. The obtained K
+dvalues and
+Km,ATP were used to calculate the Kiappvalues using the following equation
+(40):
+Kiapp/H11005Ki/H208491/H11001/H20851ATP/H20852/Km,ATP/H20850,
+assuming that the Kdvalues obtained in the binding assays are equal to Ki
+under the condition of the above kinetic assays.
+ACKNOWLEDGMENTS. We thank G. Caravotti (Novartis) and S. Rabindran
+(Wyeth Pharmaceuticals) for the compounds AEE788 and HKI-272, respec-tively; R. Copeland and C. Walsh for comments on the manuscript; and Y. Liand F. Poy for technical assistance. This work was supported by NationalInstitutes of Health Grants CA080942 (to M.J.E.) and CA116020 (to M.M.).M.J.E. is the recipient of a Scholar Award form the Leukemia and LymphomaSociety.
+1. Paez JG, et al. (2004) EGFR mutations in lung cancer: Correlation with clinical response
+to geﬁtinib therapy. Science 304:1497–1500.
+2. Lynch TJ, et al. (2004) Activating mutations in the epidermal growth factor receptor
+underlying responsiveness of non-small-cell lung cancer to geﬁtinib. N Engl J Med
+350:2129–2139.
+3. Pao W, et al. (2004) EGF receptor gene mutations are common in lung cancers from
+‘‘never smokers’’ and are associated with sensitivity of tumors to geﬁtinib and erlo-tinib. Proc Natl Acad Sci USA 101:13306–13311.
+4. Johnson BE, Janne PA (2005) Epidermal growth factor receptor mutations in patients
+with non-small cell lung cancer. Cancer Res 65:7525–7529.
+5. Gazdar AF, Shigematsu H, Herz J, Minna JD (2004) Mutations and addiction to EGFR:
+The Achilles ‘‘heal’’ of lung cancers? Trends Mol Med 10:481–486.
+6. Chan SK, Gullick WJ, Hill ME (2006) Mutations of the epidermal growth factor receptor
+in non-small cell lung cancer: Search and destroy. Eur J Cancer 42:17–23.
+7. Shigematsu H, Gazdar AF (2006) Somatic mutations of epidermal growth factor
+receptor signaling pathway in lung cancers. Int J Cancer 118:257–262.
+8. Yun CH, et al. (2007) Structures of lung cancer-derived EGFR mutants and inhibitor
+complexes: Mechanism of activation and insights into differential inhibitor sensitivity.Cancer Cell 11:217–227.
+9. Zhang X, Gureasko J, Shen K, Cole PA, Kuriyan J (2006) An allosteric mechanism for
+activation of the kinase domain of epidermal growth factor receptor. Cell125:1137–
+1149.
+10. Carey KD, et al. (2006) Kinetic analysis of epidermal growth factor receptor somatic
+mutant proteins shows increased sensitivity to the epidermal growth factor receptortyrosine kinase inhibitor, erlotinib. Cancer Res 66:8163–8171.
+11. Sordella R, Bell DW, Haber DA, Settleman J (2004) Geﬁtinib-sensitizing EGFR mutations
+in lung cancer activate antiapoptotic pathways. Science 305:1163–1167.
+12. Sharma SV, et al. (2006) A common signaling cascade may underlie ‘‘addiction’’ to the
+Src, BCR-ABL, and EGF receptor oncogenes. Cancer Cell 10:425–435.
+13. Pao W, et al. (2005) Acquired resistance of lung adenocarcinomas to geﬁtinib or
+erlotinib is associated with a second mutation in the EGFR kinase domain. PLoS Med
+2:e73.
+14. Kwak EL, et al. (2005) Irreversible inhibitors of the EGF receptor may circumvent
+acquired resistance to geﬁtinib. Proc Natl Acad Sci USA 102:7665–7670.
+15. Kobayashi S, et al. (2005) EGFR mutation and resistance of non-small-cell lung cancer
+to geﬁtinib. N Engl J Med 352:786–792.
+16. Kosaka T, et al. (2006) Analysis of epidermal growth factor receptor gene mutation in
+patients with non-small cell lung cancer and acquired resistance to geﬁtinib. Clin
+Cancer Res 12:5764–5769.
+17. Balak MN, et al. (2006) Novel D761Y and common secondary T790M mutations in
+epidermal growth factor receptor-mutant lung adenocarcinomas with acquired resis-tance to kinase inhibitors. Clin Cancer Res 12:6494–6501.
+18. Greulich H, et al. (2005) Oncogenic transformation by inhibitor-sensitive and -resistant
+EGFR mutants. PLoS Med 2:e313.
+19. Carter TA, et al. (2005) Inhibition of drug-resistant mutants of ABL, KIT, and EGF
+receptor kinases. Proc Natl Acad Sci USA 102:11011–11016.
+20. Sequist LV (2007) Second-generation epidermal growth factor receptor tyrosine kinase
+inhibitors in non-small cell lung cancer. Oncologist 12:325–330.21. Bell DW, et al. (2005) Inherited susceptibility to lung cancer may be associated with the
+T790M drug resistance mutation in EGFR. Nat Genet 37:1315–1316.
+22. Godin-Heymann N, et al. (2007) Oncogenic activity of epidermal growth factor recep-
+tor kinase mutant alleles is enhanced by the T790M drug resistance mutation. Cancer
+Res67:7319–7326.
+23. Regales L, et al. (2007) Development of new mouse lung tumor models expressing EGFR
+T790M mutants associated with clinical resistance to kinase inhibitors. PLoS ONE
+2:e810.
+24. Li D, et al. (2007) Bronchial and peripheral murine lung carcinomas induced by
+T790M-L858R mutant EGFR respond to HKI-272 and rapamycin combination therapy.Cancer Cell 12:81–93.
+25. Kwak EL, et al. (2006) Epidermal growth factor receptor kinase domain mutations in
+esophageal and pancreatic adenocarcinomas. Clin Cancer Res 12:4283–4287.
+26. Shah NP, et al. (2002) Multiple BCR-ABL kinase domain mutations confer polyclonal
+resistance to the tyrosine kinase inhibitor imatinib (STI571) in chronic phase and blastcrisis chronic myeloid leukemia. Cancer Cell 2:117–125.
+27. Roche-Lestienne C, et al. (2002) Several types of mutations of the Abl gene can be
+found in chronic myeloid leukemia patients resistant to STI571, and they can pre-existto the onset of treatment. Blood 100:1014–1018.
+28. Kato JY, et al. (1986) Amino acid substitutions sufﬁcient to convert the nontransform-
+ing p60c-src protein to a transforming protein. Mol Cell Biol 6:4155–4160.
+29. Yuza Y, et al. (2007) Allele-dependent variation in the relative cellular potency of
+distinct EGFR inhibitors. Cancer Biol Ther 6:661–667.
+30. Tsou HR, et al. (2005) Optimization of 6,7-disubstituted-4-(arylamino)quinoline-3-
+carbonitriles as orally active, irreversible inhibitors of human epidermal growth factorreceptor-2 kinase activity. J Med Chem 48:1107–1131.
+31. Stamos J, Sliwkowski MX, Eigenbrot C (2002) Structure of the epidermal growth factor
+receptor kinase domain alone and in complex with a 4-anilinoquinazoline inhibitor.J Biol Chem 277:46265–46272.
+32. Wood ER, et al. (2004) A unique structure for epidermal growth factor receptor bound
+to GW572016 (Lapatinib): Relationships among protein conformation, inhibitor off-rate, and receptor activity in tumor cells. Cancer Res 64:6652–6659.
+33. Luo L, et al. (2007) ATP-competitive inhibitors of the mitotic kinesin KSP that function
+via an allosteric mechanism. Nat Chem Biol 3:722–726.
+34. Otwinowski ZM, Minor W (1997) Processing of x-ray diffraction data collected in
+oscillation mode. Methods Enzymol 276:307–326.
+35. Read RJ (2001) Pushing the boundaries of molecular replacement with maximum
+likelihood. Acta Crystallogr D 57:1373–1382.
+36. Brunger AT, et al. (1998) Crystallography and NMR system: A new software suite for
+macromolecular structure determination. Acta Crystallogr D 54:905–921.
+37. Emsley P, Cowtan K (2004) Coot: Model-building tools for molecular graphics. Acta
+Crystallogr D 60:2126–2132.
+38. Murshudov GN, Vagin AA, Dodson EJ (1997) Reﬁnement of macromolecular structures
+by the maximum-likelihood method. Acta Crystallogr D 53:240–255.
+39. Schuttelkopf AW, van Aalten DM (2004) PRODRG: A tool for high-throughput crystal-
+lography of protein-ligand complexes. Acta Crystallogr D 60:1355–1363.
+40. Copeland RA (2000) Enzymes: A Practical Introduction to Structure, Mechanism, and
+Data Analysis (Wiley, New York), 2nd Ed, pp 305–317.
+Yun et al. PNAS /H20841February 12, 2008 /H20841vol. 105 /H20841no. 6 /H208412075
+MEDICAL SCIENCES
+from rabbit muscle (Sigma-Aldrich; catalogue no. P-0294), 0.5 mM NADH, and
+0.5/H9262M EGFR kinase; ATP at varied concentration was added last to start the
+reaction. Steady-state initial velocity data were drawn from the slopes of theA
+340curves and ﬁt to the Michaelis-Menten equation to determine VmandKm
+values. To assure that our derived kcatparameters reﬂected concentrations of
+active enzyme, we estimated the active enzyme concentration of every kinasepreparation by titration of the samples with the tight binding inhibitorgeﬁtinib or AEE788 (see below).
+Inhibition assays were carried out by using the same kinetic assay method,
+with 10 mM MgCl
+2and 1.25 mM EGFR autophosphorylation site peptide
+(ENAEYLRVA) as the phospho-acceptor substrate. The ATP concentration wasﬁxed at 10
+/H9262M or 1 mM, and the indicated concentrations of the inhibitors
+were added before the addition of ATP.
+Binding Constant Assay and Calculation of the KiappValues. The equilibrium
+ﬂuorescence quenching method was used to obtain the binding constant andestimate the active enzyme concentration as described (8). Fluorescence mea-surements were carried out in a nitrogen-sparged buffer containing 20 mM
+Tris, 0.5% glycerol, 250 mM NaCl, and 1 mM TCEP. The obtained K
+dvalues and
+Km,ATP were used to calculate the Kiappvalues using the following equation
+(40):
+Kiapp/H11005Ki/H208491/H11001/H20851ATP/H20852/Km,ATP/H20850,
+assuming that the Kdvalues obtained in the binding assays are equal to Ki
+under the condition of the above kinetic assays.
+ACKNOWLEDGMENTS. We thank G. Caravotti (Novartis) and S. Rabindran
+(Wyeth Pharmaceuticals) for the compounds AEE788 and HKI-272, respec-tively; R. Copeland and C. Walsh for comments on the manuscript; and Y. Liand F. Poy for technical assistance. This work was supported by NationalInstitutes of Health Grants CA080942 (to M.J.E.) and CA116020 (to M.M.).M.J.E. is the recipient of a Scholar Award form the Leukemia and LymphomaSociety.
+1. Paez JG, et al. (2004) EGFR mutations in lung cancer: Correlation with clinical response
+to geﬁtinib therapy. Science 304:1497–1500.
+2. Lynch TJ, et al. (2004) Activating mutations in the epidermal growth factor receptor
+underlying responsiveness of non-small-cell lung cancer to geﬁtinib. N Engl J Med
+350:2129–2139.
+3. Pao W, et al. (2004) EGF receptor gene mutations are common in lung cancers from
+‘‘never smokers’’ and are associated with sensitivity of tumors to geﬁtinib and erlo-tinib. Proc Natl Acad Sci USA 101:13306–13311.
+4. Johnson BE, Janne PA (2005) Epidermal growth factor receptor mutations in patients
+with non-small cell lung cancer. Cancer Res 65:7525–7529.
+5. Gazdar AF, Shigematsu H, Herz J, Minna JD (2004) Mutations and addiction to EGFR:
+The Achilles ‘‘heal’’ of lung cancers? Trends Mol Med 10:481–486.
+6. Chan SK, Gullick WJ, Hill ME (2006) Mutations of the epidermal growth factor receptor
+in non-small cell lung cancer: Search and destroy. Eur J Cancer 42:17–23.
+7. Shigematsu H, Gazdar AF (2006) Somatic mutations of epidermal growth factor
+receptor signaling pathway in lung cancers. Int J Cancer 118:257–262.
+8. Yun CH, et al. (2007) Structures of lung cancer-derived EGFR mutants and inhibitor
+complexes: Mechanism of activation and insights into differential inhibitor sensitivity.Cancer Cell 11:217–227.
+9. Zhang X, Gureasko J, Shen K, Cole PA, Kuriyan J (2006) An allosteric mechanism for
+activation of the kinase domain of epidermal growth factor receptor. Cell125:1137–
+1149.
+10. Carey KD, et al. (2006) Kinetic analysis of epidermal growth factor receptor somatic
+mutant proteins shows increased sensitivity to the epidermal growth factor receptortyrosine kinase inhibitor, erlotinib. Cancer Res 66:8163–8171.
+11. Sordella R, Bell DW, Haber DA, Settleman J (2004) Geﬁtinib-sensitizing EGFR mutations
+in lung cancer activate antiapoptotic pathways. Science 305:1163–1167.
+12. Sharma SV, et al. (2006) A common signaling cascade may underlie ‘‘addiction’’ to the
+Src, BCR-ABL, and EGF receptor oncogenes. Cancer Cell 10:425–435.
+13. Pao W, et al. (2005) Acquired resistance of lung adenocarcinomas to geﬁtinib or
+erlotinib is associated with a second mutation in the EGFR kinase domain. PLoS Med
+2:e73.
+14. Kwak EL, et al. (2005) Irreversible inhibitors of the EGF receptor may circumvent
+acquired resistance to geﬁtinib. Proc Natl Acad Sci USA 102:7665–7670.
+15. Kobayashi S, et al. (2005) EGFR mutation and resistance of non-small-cell lung cancer
+to geﬁtinib. N Engl J Med 352:786–792.
+16. Kosaka T, et al. (2006) Analysis of epidermal growth factor receptor gene mutation in
+patients with non-small cell lung cancer and acquired resistance to geﬁtinib. Clin
+Cancer Res 12:5764–5769.
+17. Balak MN, et al. (2006) Novel D761Y and common secondary T790M mutations in
+epidermal growth factor receptor-mutant lung adenocarcinomas with acquired resis-tance to kinase inhibitors. Clin Cancer Res 12:6494–6501.
+18. Greulich H, et al. (2005) Oncogenic transformation by inhibitor-sensitive and -resistant
+EGFR mutants. PLoS Med 2:e313.
+19. Carter TA, et al. (2005) Inhibition of drug-resistant mutants of ABL, KIT, and EGF
+receptor kinases. Proc Natl Acad Sci USA 102:11011–11016.
+20. Sequist LV (2007) Second-generation epidermal growth factor receptor tyrosine kinase
+inhibitors in non-small cell lung cancer. Oncologist 12:325–330.21. Bell DW, et al. (2005) Inherited susceptibility to lung cancer may be associated with the
+T790M drug resistance mutation in EGFR. Nat Genet 37:1315–1316.
+22. Godin-Heymann N, et al. (2007) Oncogenic activity of epidermal growth factor recep-
+tor kinase mutant alleles is enhanced by the T790M drug resistance mutation. Cancer
+Res67:7319–7326.
+23. Regales L, et al. (2007) Development of new mouse lung tumor models expressing EGFR
+T790M mutants associated with clinical resistance to kinase inhibitors. PLoS ONE
+2:e810.
+24. Li D, et al. (2007) Bronchial and peripheral murine lung carcinomas induced by
+T790M-L858R mutant EGFR respond to HKI-272 and rapamycin combination therapy.Cancer Cell 12:81–93.
+25. Kwak EL, et al. (2006) Epidermal growth factor receptor kinase domain mutations in
+esophageal and pancreatic adenocarcinomas. Clin Cancer Res 12:4283–4287.
+26. Shah NP, et al. (2002) Multiple BCR-ABL kinase domain mutations confer polyclonal
+resistance to the tyrosine kinase inhibitor imatinib (STI571) in chronic phase and blastcrisis chronic myeloid leukemia. Cancer Cell 2:117–125.
+27. Roche-Lestienne C, et al. (2002) Several types of mutations of the Abl gene can be
+found in chronic myeloid leukemia patients resistant to STI571, and they can pre-existto the onset of treatment. Blood 100:1014–1018.
+28. Kato JY, et al. (1986) Amino acid substitutions sufﬁcient to convert the nontransform-
+ing p60c-src protein to a transforming protein. Mol Cell Biol 6:4155–4160.
+29. Yuza Y, et al. (2007) Allele-dependent variation in the relative cellular potency of
+distinct EGFR inhibitors. Cancer Biol Ther 6:661–667.
+30. Tsou HR, et al. (2005) Optimization of 6,7-disubstituted-4-(arylamino)quinoline-3-
+carbonitriles as orally active, irreversible inhibitors of human epidermal growth factorreceptor-2 kinase activity. J Med Chem 48:1107–1131.
+31. Stamos J, Sliwkowski MX, Eigenbrot C (2002) Structure of the epidermal growth factor
+receptor kinase domain alone and in complex with a 4-anilinoquinazoline inhibitor.J Biol Chem 277:46265–46272.
+32. Wood ER, et al. (2004) A unique structure for epidermal growth factor receptor bound
+to GW572016 (Lapatinib): Relationships among protein conformation, inhibitor off-rate, and receptor activity in tumor cells. Cancer Res 64:6652–6659.
+33. Luo L, et al. (2007) ATP-competitive inhibitors of the mitotic kinesin KSP that function
+via an allosteric mechanism. Nat Chem Biol 3:722–726.
+34. Otwinowski ZM, Minor W (1997) Processing of x-ray diffraction data collected in
+oscillation mode. Methods Enzymol 276:307–326.
+35. Read RJ (2001) Pushing the boundaries of molecular replacement with maximum
+likelihood. Acta Crystallogr D 57:1373–1382.
+36. Brunger AT, et al. (1998) Crystallography and NMR system: A new software suite for
+macromolecular structure determination. Acta Crystallogr D 54:905–921.
+37. Emsley P, Cowtan K (2004) Coot: Model-building tools for molecular graphics. Acta
+Crystallogr D 60:2126–2132.
+38. Murshudov GN, Vagin AA, Dodson EJ (1997) Reﬁnement of macromolecular structures
+by the maximum-likelihood method. Acta Crystallogr D 53:240–255.
+39. Schuttelkopf AW, van Aalten DM (2004) PRODRG: A tool for high-throughput crystal-
+lography of protein-ligand complexes. Acta Crystallogr D 60:1355–1363.
+40. Copeland RA (2000) Enzymes: A Practical Introduction to Structure, Mechanism, and
+Data Analysis (Wiley, New York), 2nd Ed, pp 305–317.
+Yun et al. PNAS /H20841February 12, 2008 /H20841vol. 105 /H20841no. 6 /H208412075
+MEDICAL SCIENCES
