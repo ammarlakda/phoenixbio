@@ -1,7 +1,6 @@
 from split_article import split_article
 from PmcidToText import *
-from runner import get_similar_articles
-from ammar import retrieve_docs_and_clean
+from runner import get_similar_articles, retrieve_docs_and_clean
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import re

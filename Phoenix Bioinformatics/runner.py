@@ -4,10 +4,10 @@ import numpy as np
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-main_df = pd.read_csv(r'C:\Users\ammar\OneDrive\Desktop\phoenixbio\Phoenix Bioinformatics\IF Code\cleanedDatasets\phyb.csv')
 
 
 def retrieve_docs_and_clean():
+  main_df = pd.read_csv(r'C:\Users\ammar\OneDrive\Desktop\phoenixbio\Phoenix Bioinformatics\IF Code\cleanedDatasets\phyb.csv')
   #df = df['abstract']
   # Clean Paragraphs
   col_list =  list(main_df["abstract"])
@@ -23,7 +23,8 @@ def retrieve_docs_and_clean():
         document_test = re.sub(r'\s{2,}', ' ', document_test)
         documents_clean.append(document_test)
 
-  return documents_clean
+  return documents_clean, main_df
+
 
 docs = retrieve_docs_and_clean()
 vectorizer = TfidfVectorizer()
