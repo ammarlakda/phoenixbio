@@ -13,6 +13,41 @@
   }
 }
 
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.input-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+
+.left, .right, .output {
+  flex: 1;
+  padding: 20px;
+}
+.right{
+  margin-right: 10%;
+  background-color: rgb(33,180,68);
+}
+.left {
+  margin-right: 5px; /* adjust the spacing between the divs */
+  margin-left: 10%;
+  background-color: rgb(33,180,68);
+}
+.output{
+  background-color: rgb(52,53,65);
+  color: aliceblue;
+  border-radius: 5px;
+  margin-left: 10%;
+  width: 80%;
+  height: 80px; /* adjust the height of the output text box */
+  box-sizing: border-box; /* include padding and border in the height calculation */
+  resize: none; /* disable resizing */
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -24,9 +59,7 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
+
 
 @keyframes App-logo-spin {
   from {

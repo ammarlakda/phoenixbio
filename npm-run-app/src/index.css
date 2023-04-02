@@ -20,6 +20,6 @@ code {
   display: flex;
   border-bottom: 3px solid rgb(92, 0, 0);
 }
-.app{
-  background-color: aquamarine;
+body{
+  background-color: rgb(67, 70, 84);
 }

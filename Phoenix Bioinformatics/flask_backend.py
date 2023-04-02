@@ -24,7 +24,7 @@ def send_data():
     pmcid=get_similar_articles(message,df,main_df)
     pmc=pmcid['pmcid']
     IdScrape(pmc)
-    path = r"C:\Users\19058\Documents\GitHub\phoenixbio\Phoenix Bioinformatics\PDFs/"+pmc+".pdf"
+    path = r"C:\code\QmindPheonix\phoenixbio\Phoenix Bioinformatics\PDFs/"+pmc+".pdf"
     text = convert_pdf_to_txt(path)
 
     modified_message = split_article(text)

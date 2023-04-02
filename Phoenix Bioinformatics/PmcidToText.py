@@ -8,10 +8,11 @@ from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
 from io import StringIO
 import os
+import io
 
 
 
-path = r"C:\Users\19058\Documents\GitHub\phoenixbio\Phoenix Bioinformatics\PDFs"
+path = r"C:\code\QmindPheonix\phoenixbio\Phoenix Bioinformatics\PDFs"
 os.chdir(path)
 
 
@@ -45,29 +46,15 @@ def IdScrape(pmcid):
 
 
 def convert_pdf_to_txt(path):
-    '''
-    converts the pdf to a text file that has a lot of random characters (including \n) that we still need to remove
-    parameters: path for where the id exists
-    return: the text of the pdf
-    '''
     rsrcmgr = PDFResourceManager()
-    retstr = StringIO()
-    codec = 'utf-8'
+    retstr = io.StringIO()
     laparams = LAParams()
-    device = TextConverter(rsrcmgr, retstr, codec=codec, laparams=laparams)
-    fp = open(path, 'rb')
-    interpreter = PDFPageInterpreter(rsrcmgr, device)
-    password = ""
-    maxpages = 0
-    caching = True
-    pagenos=set()
-
-    for page in PDFPage.get_pages(fp, pagenos, maxpages=maxpages, password=password,caching=caching, check_extractable=True):
-        interpreter.process_page(page)
-
+    device = TextConverter(rsrcmgr, retstr, laparams=laparams)
+    with open(path, 'rb') as fp:
+        interpreter = PDFPageInterpreter(rsrcmgr, device)
+        for page in PDFPage.get_pages(fp):
+            interpreter.process_page(page)
     text = retstr.getvalue()
-
-    fp.close()
     device.close()
     retstr.close()
     text = text.lower()

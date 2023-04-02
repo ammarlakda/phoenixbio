@@ -13,7 +13,7 @@ from flask_cors import CORS
 
 
 def retrieve_docs_and_clean():
-  main_df = pd.read_csv(r'C:\Users\19058\Documents\GitHub\phoenixbio\Phoenix Bioinformatics\IF Code\cleanedDatasets\phyb.csv')
+  main_df = pd.read_csv(r'C:\code\QmindPheonix\phoenixbio\Phoenix Bioinformatics\IF Code\cleanedDatasets\phyb.csv')
   #df = df['abstract']
   # Clean Paragraphs
   col_list =  list(main_df["abstract"])
